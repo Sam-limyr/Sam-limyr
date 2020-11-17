@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there! 👋 My name's Samuel, but you can call me Sam!
 
-<!--
-**Sam-limyr/Sam-limyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a 3rd-year Computer Science major at the National University of Singapore (NUS). My focuses are on **Artificial Intelligence** and **Information Retrieval**, but I also dabble in a lot of other random things, like **databases**!
 
-Here are some ideas to get you started:
+### Check out my pinned repositories for some cool highlights!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **tPlace** :deciduous_tree:: A multi-user online interactive canvas that I made with 5 of my friends for Orientation Week!
+- **CapooCare** :fish:: A full-stack web application to connect pet owners and care takers!
+- **great-snakes** :snake:: A repository with lots of small Python scripts that I've accumulated over years of automating small tasks!
+
+### My Github stats:
+
+<a href="https://github.com/Sam-limyr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam-limyr&count_private=true&show_icons=true&bg_color=30,A33764,1D2671&icon_color=A1bdeb&title_color=A1bdeb&text_color=e6e0ff" />
+</a>
+<a href="https://github.com/Sam-limyr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-limyr&layout=compact&langs_count=10&bg_color=30,1D2671,933764&icon_color=A1bdeb&title_color=A1bdeb&text_color=e6e0ff" />
+</a>
+
+### Contact me:
+
+If you'd like to get in touch, I can currently be reached at limyr.samuel@u.nus.edu!
