@@ -11,10 +11,10 @@ I'm currently a 3rd-year Computer Science major at the National University of Si
 ### My Github stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam-limyr&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,A33764,1D2671&icon_color=A1bdeb&title_color=A1bdeb&text_color=e6e0ff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam-limyr&count_private=true&include_all_commits=true&custom_title=My Code Contributions&show_icons=true&bg_color=30,A33764,1D2671&icon_color=A1bdeb&title_color=A1bdeb&text_color=e6e0ff" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-limyr&layout=compact&langs_count=10&bg_color=30,1D2671,933764&icon_color=A1bdeb&title_color=A1bdeb&text_color=e6e0ff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-limyr&layout=compact&langs_count=10&custom_title=Most Used Languages&bg_color=30,1D2671,933764&icon_color=A1bdeb&title_color=A1bdeb&text_color=e6e0ff" />
 </a>
 
 ### Contact me:
