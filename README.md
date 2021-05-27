@@ -1,6 +1,6 @@
 ### Hi there! :wave: My name's Samuel, but you can call me Sam :smiley:!
 
-I'm currently a 3rd-year Computer Science major at the National University of Singapore (NUS). My focuses are on **Artificial Intelligence** and **Information Retrieval**, and I'm most interested specifically in the field of **Natural Language Processing**! :closed_book::page_facing_up::bar_chart:
+I'm currently a 4th-year Computer Science major at the National University of Singapore (NUS). My focuses are on **Artificial Intelligence** and **Information Retrieval**, and I'm most interested specifically in the field of **Natural Language Processing**! :closed_book::page_facing_up::bar_chart:
 
 ### Check out my :pushpin: pinned :pushpin: repositories for some cool highlights!
 
