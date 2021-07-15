@@ -2,11 +2,13 @@
 
 I'm currently a 4th-year Computer Science major at the National University of Singapore (NUS). My focuses are on **Artificial Intelligence** and **Information Retrieval**, and I'm most interested specifically in the field of **Natural Language Processing**! :closed_book::page_facing_up::bar_chart:
 
+I believe that a lot of the work in today's society can be streamlined using different types of intelligent learning, so I'm on a journey to understand more about how it can be harnessed to make life more efficient for everyone.
+
 ### Check out my :pushpin: pinned :pushpin: repositories for some cool highlights!
 
-- **tPlace** :deciduous_tree:: A multi-user online interactive canvas that I made with 5 of my friends for Orientation Week!
-- **CapooCare** :fish:: A full-stack web application to connect pet owners and care takers!
-- **great-snakes** :snake:: A repository with lots of small Python scripts that I've accumulated over years of automating small tasks!
+- [**tPlace**](https://github.com/Sam-limyr/tPlace) :deciduous_tree:: A multi-user online interactive canvas that I made with 5 of my friends for Orientation Week!
+- [**CapooCare**](https://github.com/Sam-limyr/CapooCare) :fish:: A full-stack web application to connect pet owners and care takers!
+- [**great-snakes**](https://github.com/Sam-limyr/great-snakes) :snake:: A repository with lots of small Python scripts that I've accumulated over years of automating small tasks!
 
 ### My Github stats :bar_chart::
 
@@ -19,4 +21,4 @@ I'm currently a 4th-year Computer Science major at the National University of Si
 
 ### Contact me :telephone_receiver::
 
-If you'd like to get in touch, I can currently be reached at limyr.samuel@u.nus.edu!
+If you'd like to get in touch, I can currently be reached at :pencil: limyrsamuel@gmail.com :mailbox:!
